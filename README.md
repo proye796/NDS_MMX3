@@ -1,7 +1,7 @@
-# 메탈 맥스 3 NDS 한국어 패치 v1.0.1
+# 메탈 맥스 3 NDS 한국어 패치 v1.0.1.1
 
-배포일: 2026-10-21
-대상: Metal Max 3 일본판
+배포일: 2026-11-21\
+대상: Metal Max 3 일본판 — BM9J, revision 0
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
 
@@ -15,12 +15,13 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| MM3-Korean-1.0.1.nds | 84,683,264 | 2a8e16ac210e7369779ae77d2b81ee350dd3e866c1d92b6345ccb7bd16403189 |
+| MM3-Korean-1.0.1.1.nds | 84,683,776 | 35b2aac31c5639677c9ed3427e1247fa4a742043182e97e8a158ef0bab9176c2 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| MM3-Korean-1.0.1.zip | 11,546,069 | 3b2a393f5f54adc0f036d2d8ee3d9d95dc3508639a930a9fc0148d36f1925a4c |
-| MM3-Korean-1.0.1.bps | 18,994,785 | be2e2afcf5e1e38308362e2008c0788b75dcd3bb5d6f9f65c83ac73eb2f03d21 |
+| MM3-Korean-1.0.1.1.zip | 11,505,900 | 7ba0c9e50abe843ac71951be40366d30ff989d26ec6d1aaba86154e31feb2d32 |
+| MM3-Korean-1.0.1.1.bps | 18,948,504 | 74afd238b2dd59eeff97a9fdeb372a8c050f27c1d9828f32ead991c919714079 |
 
+ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), 변경내역.txt, manifest.json, 파일별 SHA256SUMS.txt, 글꼴·AP 패치 라이선스와 AP 패치 원본·출처가 들어 있습니다. 내려받은 ZIP과 BPS·배포문은 ZIP 밖의 SHA256SUMS-1.0.1.1.txt로 확인할 수 있습니다.
